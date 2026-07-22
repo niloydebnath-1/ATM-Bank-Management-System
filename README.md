@@ -1,1 +1,1 @@
-# ATM-Bank-Management-System
+This ATM Bank Management System is a web-based application developed using HTML, CSS, PHP, and MySQL. It allows users to manage accounts, transactions, and customer details securely, with dynamic data handling and user interaction through a responsive interface.
